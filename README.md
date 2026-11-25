@@ -23,13 +23,19 @@ Ayrıca `--selftest` modu var. Bu mod sentetik veriyle ileriye bakma (lookahead)
 
 ## Sonuç
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/results-dark.svg">
+  <img alt="10 özelliğin her birinin kazanma oranı ve Wilson alt sınırı. Hepsinin alt sınırı yüzde 38,0 olan temel oranın altında kalıyor." src="docs/results-light.svg">
+</picture>
+
+
 60 USDT perpetual sembol, 4 saatlik seviye, 5 dakikalık işlem, son 29 gün:
 
 - **1.093 kırılım olayı** (546 eğitim, 547 test)
 - Testteki temel kazanma oranı: 0,380. Ücretler düşüldükten sonra ortalama R: −0,228.
 - **10 özelliğin 10'u da testi geçemedi.**
 
-Ayrıntılar için `results/report.md` dosyasına bakabilirsin.
+Ayrıntılar için `results/report.md` dosyasına bakabilirsin. Grafik `docs/make_chart.py` ile `results/feature_tests.csv` dosyasından üretiliyor.
 
 Olumsuz bir sonuç da bir sonuçtur. Bu test, iyi görünen bir indikatörün gerçek bir avantaj sağlamadığını, işlem yapılmadan önce ortaya çıkardı.
 
