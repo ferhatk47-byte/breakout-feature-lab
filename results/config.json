@@ -1,0 +1,26 @@
+{
+  "htf": "4h",
+  "htf_len": 20,
+  "ltf": "5m",
+  "obs_bars": 3,
+  "norm_len": 50,
+  "med_len": 100,
+  "rsi_len": 14,
+  "atr_len": 14,
+  "tp_atr": 1.5,
+  "sl_atr": 1.0,
+  "max_hold": 60,
+  "fee_bps_roundtrip": 10,
+  "lookback_days": 29,
+  "split_frac": 0.5,
+  "top_quantile": 0.6666666666666666,
+  "n_perm": 5000,
+  "alpha": 0.05,
+  "min_n": 60,
+  "min_group": 20,
+  "seed": 42,
+  "exclude": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ]
+}
