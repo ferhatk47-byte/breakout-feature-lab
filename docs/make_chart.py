@@ -31,7 +31,7 @@ for mode,c in TH.items():
         o.append(f'<line x1="{a:.1f}" y1="{y:.1f}" x2="{b:.1f}" y2="{y:.1f}" stroke="{c["s"]}" stroke-width="2" stroke-linecap="round"/>')
         o.append(f'<line x1="{a:.1f}" y1="{y-6:.1f}" x2="{a:.1f}" y2="{y+6:.1f}" stroke="{c["s"]}" stroke-width="2" stroke-linecap="round"/>')
         o.append(f'<circle cx="{b:.1f}" cy="{y:.1f}" r="5" fill="{c["s"]}" stroke="{c["bg"]}" stroke-width="2"/>')
-        o.append(f'<text x="{R+14}" y="{y+4:.1f}" font-size="12" fill="{c["ink2"]}">{r["p_perm"]:.2f}".replace(".",",")+f"</text>')
+        o.append(f'<text x="{R+14}" y="{y+4:.1f}" font-size="12" fill="{c["ink2"]}">{format(r["p_perm"], ".2f").replace(".", ",")}</text>')
     ky=H-18
     o.append(f'<circle cx="30" cy="{ky-4}" r="5" fill="{c["s"]}"/><text x="42" y="{ky}" font-size="11.5" fill="{c["ink2"]}">Kazanma oranı</text>')
     o.append(f'<line x1="150" y1="{ky-10}" x2="150" y2="{ky+2}" stroke="{c["s"]}" stroke-width="2"/><text x="160" y="{ky}" font-size="11.5" fill="{c["ink2"]}">Wilson alt sınırı</text>')

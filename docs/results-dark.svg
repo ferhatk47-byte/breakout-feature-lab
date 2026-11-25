@@ -26,52 +26,52 @@
 <line x1="384.8" y1="111.0" x2="596.8" y2="111.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="384.8" y1="105.0" x2="384.8" y2="117.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="596.8" cy="111.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="115.0" font-size="12" fill="#c3c2b7">0.16".replace(".",",")+f"</text>
+<text x="684" y="115.0" font-size="12" fill="#c3c2b7">0,16</text>
 <text x="136" y="145.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">range_shock</text>
 <line x1="385.1" y1="141.0" x2="584.8" y2="141.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="385.1" y1="135.0" x2="385.1" y2="147.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="584.8" cy="141.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="145.0" font-size="12" fill="#c3c2b7">0.18".replace(".",",")+f"</text>
+<text x="684" y="145.0" font-size="12" fill="#c3c2b7">0,18</text>
 <text x="136" y="175.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">vol_shock</text>
 <line x1="388.7" y1="171.0" x2="577.5" y2="171.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="388.7" y1="165.0" x2="388.7" y2="177.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="577.5" cy="171.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="175.0" font-size="12" fill="#c3c2b7">0.17".replace(".",",")+f"</text>
+<text x="684" y="175.0" font-size="12" fill="#c3c2b7">0,17</text>
 <text x="136" y="205.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">thrust_decay</text>
 <line x1="335.7" y1="201.0" x2="562.0" y2="201.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="335.7" y1="195.0" x2="335.7" y2="207.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="562.0" cy="201.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="205.0" font-size="12" fill="#c3c2b7">0.40".replace(".",",")+f"</text>
+<text x="684" y="205.0" font-size="12" fill="#c3c2b7">0,40</text>
 <text x="136" y="235.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">clv_evt</text>
 <line x1="315.9" y1="231.0" x2="552.1" y2="231.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="315.9" y1="225.0" x2="315.9" y2="237.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="552.1" cy="231.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="235.0" font-size="12" fill="#c3c2b7">0.50".replace(".",",")+f"</text>
+<text x="684" y="235.0" font-size="12" fill="#c3c2b7">0,50</text>
 <text x="136" y="265.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">absorb</text>
 <line x1="350.9" y1="261.0" x2="530.8" y2="261.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="350.9" y1="255.0" x2="350.9" y2="267.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="530.8" cy="261.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="265.0" font-size="12" fill="#c3c2b7">0.42".replace(".",",")+f"</text>
+<text x="684" y="265.0" font-size="12" fill="#c3c2b7">0,42</text>
 <text x="136" y="295.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">oi_chg_obs</text>
 <line x1="317.1" y1="291.0" x2="508.3" y2="291.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="317.1" y1="285.0" x2="317.1" y2="297.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="508.3" cy="291.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="295.0" font-size="12" fill="#c3c2b7">0.71".replace(".",",")+f"</text>
+<text x="684" y="295.0" font-size="12" fill="#c3c2b7">0,71</text>
 <text x="136" y="325.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">thrust_evt</text>
 <line x1="295.6" y1="321.0" x2="498.1" y2="321.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="295.6" y1="315.0" x2="295.6" y2="327.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="498.1" cy="321.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="325.0" font-size="12" fill="#c3c2b7">0.86".replace(".",",")+f"</text>
+<text x="684" y="325.0" font-size="12" fill="#c3c2b7">0,86</text>
 <text x="136" y="355.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">rsi_gap</text>
 <line x1="234.9" y1="351.0" x2="442.5" y2="351.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="234.9" y1="345.0" x2="234.9" y2="357.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="442.5" cy="351.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="355.0" font-size="12" fill="#c3c2b7">0.70".replace(".",",")+f"</text>
+<text x="684" y="355.0" font-size="12" fill="#c3c2b7">0,70</text>
 <text x="136" y="385.0" font-size="12.5" fill="#f0efec" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">oi_z</text>
 <line x1="219.6" y1="381.0" x2="431.1" y2="381.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <line x1="219.6" y1="375.0" x2="219.6" y2="387.0" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/>
 <circle cx="431.1" cy="381.0" r="5" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
-<text x="684" y="385.0" font-size="12" fill="#c3c2b7">0.64".replace(".",",")+f"</text>
+<text x="684" y="385.0" font-size="12" fill="#c3c2b7">0,64</text>
 <circle cx="30" cy="428" r="5" fill="#3987e5"/><text x="42" y="432" font-size="11.5" fill="#c3c2b7">Kazanma oranı</text>
 <line x1="150" y1="422" x2="150" y2="434" stroke="#3987e5" stroke-width="2"/><text x="160" y="432" font-size="11.5" fill="#c3c2b7">Wilson alt sınırı</text>
 <text x="756" y="432" font-size="11.5" fill="#898781" text-anchor="end">Bonferroni eşiği p &lt; 0,005 · hiçbiri geçmedi</text>
